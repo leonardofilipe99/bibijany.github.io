@@ -188,7 +188,7 @@ module.exports = configure(function (ctx) {
         ]
       }
     },
-
+//
     // Full list of options: https://v2.quasar.dev/quasar-cli-webpack/developing-cordova-apps/configuring-cordova
     cordova: {
       // noIosLegacyBuildFlag: true, // uncomment only if you know what you are doing
